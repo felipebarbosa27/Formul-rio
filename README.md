@@ -30,5 +30,6 @@ Aqui é possível inserir todas as informações necessárias sobre cada estudan
 
 Tela de Login(Usuários)
 Tela usada para o cadastro de usuários,incluindo campos para preencher com email e senha,permitindo o acesso às diversas abas sucessivas.
+
 <img width="363" height="421" alt="Captura de tela 2025-12-11 142940" src="https://github.com/user-attachments/assets/0b773f07-9a9c-4a3a-afde-4c6a7d92a91c" />
 
